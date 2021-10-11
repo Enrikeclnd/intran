@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+ font-family: MyCustomFont;
+ src: url("fuentes/hudsonbold.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: MyCustomFont;
+ src: url("fuentes/hudsonbold.ttf") /* TTF file for CSS3 browsers */
+}
+@font-face {
+ font-family: MyCustomFont;
+ src: url("fuentes/hudsonbold.otf") /* TTF file for CSS3 browsers */
+}
+@font-face {
+ font-family: MyCustomFont;
+ src: url("fuentes/hudsonbold.woff") /* TTF file for CSS3 browsers */
+}
+@font-face {
+ font-family: MyCustomFont;
+ src: url("fuentes/hudsonbold.svg") /* TTF file for CSS3 browsers */
+}
